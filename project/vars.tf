@@ -68,7 +68,7 @@ variable "Zone3" {
 }
 
 
-variable "VPCDIR" {
+variable "VPCCIDR" {
   default = "172.21.0.0/16"
 }
 
